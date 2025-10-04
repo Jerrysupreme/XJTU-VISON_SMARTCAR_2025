@@ -1,0 +1,12 @@
+!!! 警告 !!!
+
+存在未解决的依赖项，请手动添加它们 !, 完成添加后，请删除该文件，避免再次弹出提示。
+
+项目位置：'c:\Users\tangz\Desktop\MCX\MCX_Vision_Library-master\【例程】Example\E08_mcx_vision_object_detection_demo\project\mdk\mcx_vision_board.code-workspace'
+
+---
+
+FileName: 'devices\MCXN947\arm\startup_MCXN947_cm33_core0.S'
+	Class:     'Device'
+	Category:  'sourceAsm'
+	Location:  'RTE/Device/MCXN947VDF_cm33_core0/startup_MCXN947_cm33_core0.S'
